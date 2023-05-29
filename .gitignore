@@ -1,0 +1,10 @@
+CmakeFiles
+.vscode
+x64
+MyProject.dir
+
+**/*.vcxproj
+Python
+Tests
+Documentation
+Benchmarks
